@@ -33,7 +33,9 @@ All datasets were cleaned, merged, and preprocessed before applying models.
 - Visualization with **Matplotlib & Seaborn**
 - **Machine Learning**:
   - Linear Regression
-  - Logistic Regression
+  - Decision Tree Regressor
+  - Gradient Boosting Regressor
+  - Random Forest Regressor
   - Polynomial Regression
   - K-Means Clustering
 - **Deep Learning**:

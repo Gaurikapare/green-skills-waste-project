@@ -1,5 +1,5 @@
-# green-skills-waste-project
-"AI + ML + Deep Learning based solid waste management analysis using Pune data"
+# urban-waste-insights-pune-ml
+"AI-Driven Solid Waste Management and Prediction Using Ward-Wise Data of Pune City"
 
 # ♻️ Green Skills: Solid Waste Management using AI & Deep Learning
 
